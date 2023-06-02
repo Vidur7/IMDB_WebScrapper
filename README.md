@@ -16,6 +16,6 @@ Run the script using the command: python imdb_scraper.py.
 Enter the movie name when prompted.
 The script will scrape the IMDb website for movie details based on the provided name. It will then display the relevant information, including the movie title, release date, rating, genres, and a brief plot summary.
 
-#Acknowledgments
+Acknowledgments
 The script utilizes the Beautiful Soup library, which is developed and maintained by Leonard Richardson and contributors.
 IMDb (Internet Movie Database) is a registered trademark of IMDb.com, Inc. The script uses IMDb for movie data retrieval.
